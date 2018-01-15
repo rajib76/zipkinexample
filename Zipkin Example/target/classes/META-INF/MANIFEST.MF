@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Zipkin Example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: user
+Implementation-Vendor-Id: com.rajib
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/ZipkinExampl
+ e/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
